@@ -115,7 +115,21 @@
                   <div class="tab-content">
                     <div role="tabpanel" class="tab-pane active" id="chatBot">
                     <div style="margin: 12px;">
-                    <iframe src="https://discordapp.com/widget?id=467264918220046337&theme=dark" width="400" height="500" allowtransparency="true" frameborder="0"></iframe>
+                      <widgetbot
+  server="467264918220046337"
+  channel="467336579443326976"
+  id="embed"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+
+<script>
+  const embed = document.getElementById('embed')
+
+  /*embed.on('signIn', data => {
+    console.log(`Guest signed in as ${data.name}`)
+    embed.emit('sendMessage', 'Hello world')
+  })*/
+</script>
                   </div>
                 </div>
                   <div role="tabpanel" class="tab-pane" id="important">
