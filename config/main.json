@@ -52,7 +52,7 @@
     { "addr": "0x059e3ead0a5675e4139c820d799e20be9c75bc3d", "name": "LTCRED", "fullName": "Litecoin Red", "decimals": 8 },
     { "addr": "0x05c7065d644096a4e4c3fe24af86e36de021074b", "name": "LCT", "fullName": "LendConnect Token", "decimals": 18 },
     { "addr": "0x05d379b48a8622ae4018309e116420db4a38a225", "name": "ELYTE", "fullName": "EthereumLyte", "decimals": 18 },
-    { "addr": "0x0dfdd839cde95dabf56f0b5c5698e0159138930d", "name": "MYFI", "fullName": "MyFiChain", "decimals": 18 },
+    { "addr": "0x0dfdd839cde95dabf56f0b5c5698e0159138930d", "name": "MYFI", "fullName": "MyFiChain", "decimals": 18 }
   ],
   "defaultPair": { "token": "MYFI", "base": "ETH" }
 }
