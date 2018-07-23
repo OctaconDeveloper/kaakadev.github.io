@@ -2,7 +2,10 @@
   "contractEtherDelta": "smart_contract/etherdelta.sol",
   "contractToken": "smart_contract/token.sol",
   "contractReserveToken": "smart_contract/reservetoken.sol",
- 
+  "contractEtherDeltaAddrs": [
+    { "addr": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819", "info": "Deployed 02/09/2017 -- THE CURRENT SMART CONTRACT" }
+    
+  ],
   "ethTestnet": false,
   "ethChainId": 1,
   "ethProvider": "http://localhost:8545",
